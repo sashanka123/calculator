@@ -1,0 +1,14 @@
+.col-nd-6{
+    margin-top:150px !important;
+    border:3px solid black;
+    width:400px;
+}
+input[type=button]{
+    width:100%;
+    color:white;
+    background: blue;
+    border:none;
+}
+input[type=text]{
+    width:100%
+}
